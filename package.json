@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/como-los-estudiantes",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a como-los-estudiantes",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/como-los-estudiantes.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://bitcu.co/estudiantes-descargar-office-gratis/"
+    },
+    "homepage": "https://bitcu.co/estudiantes-descargar-office-gratis/"
+}
